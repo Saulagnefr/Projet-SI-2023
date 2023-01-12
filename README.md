@@ -1,2 +1,2 @@
 Projet-SI-2023
-Part Thomas,Gary,Damien,Amine
+De la part de Thomas,Gary,Damien,Amine
